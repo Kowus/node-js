@@ -9,6 +9,7 @@ Barnabas.printFirstName();
 
 beDifferent();
 
+
 // The default calling context is global...
 function beDifferent() {
     console.log("\nDo different things!");
